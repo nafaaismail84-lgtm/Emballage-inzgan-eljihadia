@@ -44,7 +44,7 @@
   </section>  <section id="contact" class="card">
     <h2>التواصل</h2>
     <p>مرحبا بكم للتواصل والطلبات:</p>
-    <p>📞 الهاتف: 06XXXXXXXX</p>
+    <p>📞 الهاتف: 0717462642/p>
     <p>📍 أكادير – إنزكان</p>
     <p>💬 واتساب: اضغط على الزر أسفله</p>
   </section></div><a class="whatsapp" href="https://wa.me/212717462642![1000049873](https://github.com/user-attachments/assets/e4766d6e-b9ff-40e5-a5a5-223dc72de807)
